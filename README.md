@@ -5,11 +5,11 @@ Data set presents an initial study for monitoring the magnetic field in real tim
 
 By this data set, we addressed the challenge of measuring geomagnetic fields, which are highly dynamic in nature, making this a timely and relevant research topic. 
 
-How to cite dataset (c) (copyright):
+How to cite dataset (c) (copyright) - CC BY 4.0:
 V. Grasic, Smart City geomagnetic data set v1, GeoM-v1 dataset, https://github.com/SafeCity112/GeoM-v1/, September 2024
 
 Further documentation:
-Description of magnetic field framework for smart cities (under review):
+Description of magnetic field framework for smart cities:
 V. Grasic, B. Mileva Boshokoska. Parameters devise for modelling real-time monitoring of magnetic field for the purpose of smart city using a mobile phone, ITIS 2024, https://itis.fis.unm.si/, Ljubljana, November 2024
 
 CrowdMag app:
